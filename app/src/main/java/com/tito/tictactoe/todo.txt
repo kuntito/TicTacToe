@@ -1,0 +1,5 @@
+. app shouldn't be resizeable
+
+
+To increase AI difficulty
+. Teach it to implement them as the case may be

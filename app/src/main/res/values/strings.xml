@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imgd_tictactoe_board_size">TicTacToe board size</string>
+    <string name="three_by_three">3 x 3</string>
+    <string name="versus">vs</string>
+<!--    <string-array name="board_sizes">-->
+<!--        <item>3 x 3</item>-->
+        <!--        <item>4 x 4</item>-->
+        <!--        <item>5 x 5</item>-->
+        <!--        <item>6 x 6</item>-->
+<!--    </string-array>-->
+    <integer-array name="board_sizes">
+        <item>3</item>
+        <!--        <item>4</item>-->
+        <!--        <item>5</item>-->
+        <!--        <item>6</item>-->
+    </integer-array>
+</resources>
