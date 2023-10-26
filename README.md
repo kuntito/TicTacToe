@@ -13,6 +13,7 @@ The inactive player is smaller and greyed out
 <img width="360" alt="0  on_start_second_turn" src="https://github.com/kuntito/TicTacToe/assets/106985013/7c065aa7-5568-46ae-9aa9-7e91185c719d"> <img width="360" alt="1  on_start_first_turn" src="https://github.com/kuntito/TicTacToe/assets/106985013/a5b81f09-3788-45ad-aac4-903bc7f42310">
 
 A line is drawn across the winning cells and a dialog appears allowing the user to restart
+
 <img width="360" alt="2  on_win" src="https://github.com/kuntito/TicTacToe/assets/106985013/abc2dbbd-9ddd-4d52-8df7-cf5e232ac82b"> <img width="360" alt="3  on_win_dialog" src="https://github.com/kuntito/TicTacToe/assets/106985013/f5da5192-3056-4bce-9f31-5854be7f8df7">
 
 If the dialog is dimsissed, a restart button appears at the top left corner
