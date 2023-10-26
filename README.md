@@ -3,7 +3,7 @@ This Android app is a basic TicTacToe game. You can play against an AI opponent.
 
 ## Features
 - Human vs. AI gameplay.
-- Minimalistic design with Jetpack Compose.
+- Minimalistic design with Jetpack Compose ([UI design done in figma](https://www.figma.com/file/hSzVEWntsuTephuQahJxWr/TicTacToe?type=design&node-id=0%3A1&mode=design&t=9bbeISYCv2nmWmX4-1)).
 - Preferences Data Store for tracking the current player.
 - Simple AI logic implemented using if statements.
 
